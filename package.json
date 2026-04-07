@@ -1,0 +1,23 @@
+{
+  "name": "term_project-test_zolatrans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/660710746-Sunita/Term_Project-Test_zolatrans.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/660710746-Sunita/Term_Project-Test_zolatrans/issues"
+  },
+  "homepage": "https://github.com/660710746-Sunita/Term_Project-Test_zolatrans#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.5.2"
+  }
+}
